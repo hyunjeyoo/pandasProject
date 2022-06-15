@@ -16,7 +16,7 @@
 3. `dir()`
 4. `head()`
 5. `tail()`
-6. `index`  # 열
+6. `index`  # 행
 7. `columns`
 8. `values`
 9. `describe()`
